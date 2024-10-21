@@ -1,0 +1,48 @@
+div.bb p{
+    color: red;
+}
+div.b h2{
+    color: red;
+}
+#block p{
+    color: red;
+}
+#block1 h2{
+    color: red;
+}
+.bbb{
+    color: red;
+}
+#block3 .bbb1{
+    color: red;
+}
+p.bbb2{
+    color: red;
+}
+#block p.bbb {
+    color: red;
+}
+.bbb, .xxx {
+    color: red;
+}
+p.bbb, h2.xxx {
+    color: red;
+}
+#block p.bbb, #block p.xxx {
+    color: red;
+}
+.fff {
+    color: red;
+}
+.fff p {
+    color: red;
+}
+p.fff {
+    color: red;
+}
+.fff .bbb {
+    color: red;
+}
+.fff h2.bbb {
+    color: red;
+}
